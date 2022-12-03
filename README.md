@@ -20,6 +20,20 @@ Os principais comandados na hora de trabalhar em equipe são:
 
 [$ git rebase](https://git-scm.com/docs/git-rebase/pt_BR) → Une e replica os commits em cima do topo de outra base
 
+Fazendo o merge de duas branches
+
+Alterne para a branche de destino(onde deseja que o merge final fique)
+
+```bash
+git checkout main
+```
+
+E faça o git merge
+
+```bash
+git merge nova_branch
+```
+
 Um dos conceitos mas importantes na hora de trabalhar em equipe é os fluxos de trabalho, mas conhecidos como workflows. Que basicamente é alinhamento do fluxo de qual branch deve se trabalhar quando fazer commit e merges
 
 ### Referências
