@@ -37,6 +37,12 @@ Também criando com git branch e alternando com git checkout
 git branch nova_branch
 ```
 
+criando e alterando com git checkout
+
+```bash
+git checkout -b nova_branch
+```
+
 Um dos conceitos mas importantes na hora de trabalhar em equipe é os fluxos de trabalho, mas conhecidos como workflows. Que basicamente é alinhamento do fluxo de qual branch deve se trabalhar quando fazer commit e merges
 
 ### Referências
