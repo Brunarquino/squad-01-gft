@@ -31,7 +31,3 @@ Um dos conceitos mas importantes na hora de trabalhar em equipe é os fluxos de 
 - [https://www.zup.com.br/blog/git-workflow](https://www.zup.com.br/blog/git-workflow)
 - [https://www.atlassian.com/br/git/tutorials/comparing-workflows](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 - [https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe](https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe)
-
-```bash
-git clone https://github.com/Brunarquino/squad-01-gft
-```
